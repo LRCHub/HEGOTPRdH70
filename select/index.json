@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "満月と黒猫（feat. WILYWNKA）",
+  "base_artist": "13ELL",
+  "createdAt": "2026-02-15T07:11:35.071581Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "満月と黒猫 (feat. WILYWNKA)",
+      "artist": "13ELL, WILYWNKA",
+      "has_synced": false,
+      "path": "select/pl_01_満月と黒猫_(feat._WILYWNKA)_13ELL,_WILYWNKA.txt"
+    }
+  ]
+}
